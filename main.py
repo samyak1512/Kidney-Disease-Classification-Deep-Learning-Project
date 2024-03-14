@@ -5,7 +5,7 @@ from cnnClassifier.pipeline.stage_03_model_training import ModelTrainingPipeline
 from cnnClassifier.pipeline.stage_04_model_evaluation import EvaluationPipeline
 
 # hi my name is samyak
-
+# hi
 
 STAGE_NAME = "Data Ingestion stage"
 try:
